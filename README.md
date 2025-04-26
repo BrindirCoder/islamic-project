@@ -1,0 +1,1 @@
+Create a database named Quran. Then, create a table named Quran. After that, create rows and columns to store the name of each Surah from the Quran and the link to the iframe video. Finally, save your database.
